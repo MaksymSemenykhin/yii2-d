@@ -9,7 +9,7 @@ d($a , false);
 d($a ); //debug and exit
 
 //result
-File: C:\openserver\OpenServer\domains\will\frontend\views\records\new.php / Line: 3
+File:file.php / Line: 3
 
 [
     0 => 1
@@ -18,7 +18,7 @@ File: C:\openserver\OpenServer\domains\will\frontend\views\records\new.php / Lin
     3 => 4
 ]
 
-File: C:\openserver\OpenServer\domains\will\frontend\views\records\new.php / Line: 5
+File: file.php / Line: 5
 
 [
     0 => 1
